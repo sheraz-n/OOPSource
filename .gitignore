@@ -1,0 +1,4 @@
+# === This is a sample of .gitignore file ===
+# Ignore temp files
+*.exe
+*.o
