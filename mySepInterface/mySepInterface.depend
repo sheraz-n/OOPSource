@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1445398904 source:e:\umt\2015 fall\oopsource\mycircle.cpp
+	<iostream>
+	"mycircle.h"
+
+1445398758 e:\umt\2015 fall\oopsource\mycircle.h
+	<iostream>
+
+1444742136 source:e:\umt\2015 fall\oopsource\mycircletest.cpp
+	<iostream>
+	"mycircle.h"
+
